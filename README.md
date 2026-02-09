@@ -9,8 +9,12 @@ Analyze customer behavior data to understand purchasing patterns, demographics, 
 ## 📁 Project Links & Tools
 - **📊 Dashboard File**: <a href="https://github.com/somesh720/Customer-Behaviour-Analysis/blob/main/Customer%20Behavior%20Dashboard.pbix" target="_blank">Download Power BI Dashboard</a>
 - **📂 Dataset**: <a href="https://github.com/somesh720/Customer-Behaviour-Analysis/blob/main/customer_shopping_behavior.csv" target="_blank">View or Download Dataset</a>
-- **🖼️ Dashboard Preview**: <a href="customerbehavior.png" target="_blank">View Dashboard Screenshot</a>
-- **🛠️ Tools Used**: Power BI, Excel, GitHub
+- **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Customer-Behaviour-Analysis/blob/main/customerbehavior.png" target="_blank">View Dashboard Screenshot</a>
+
+## 🛠️ Tools Used
+- **Power BI** - Data visualization & dashboard creation
+- **Excel** - Data processing & analysis
+- **GitHub** - Version control & project hosting
 
 ---
 
